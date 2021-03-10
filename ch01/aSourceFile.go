@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	fmt.Println("This is a sample Go program!!")
+	fmt.Println("This is a sample Go program!")
 }
